@@ -17,16 +17,16 @@ HTML and Javascript in a working package.
 
 Support projects:
 <div>
+<a href='http://geoserver.org/'>
+  <img width='100px' src='assets/logo_geoserver.png' />
+</a>
+<img width='10px' src='assets/slider-transparent-placeholder.png' />
 <a href='https://www.meteor.com'>
   <img width='80px' src='assets/logo_meteor.png' />
 </a>
 <img width='10px' src='assets/slider-transparent-placeholder.png' />
 <a href='https://httpd.apache.org/'>
   <img width='80px' src='assets/logo_apache.png' />
-</a>
-<img width='10px' src='assets/slider-transparent-placeholder.png' />
-<a href='http://geoserver.org/'>
-  <img width='100px' src='assets/logo_geoserver.png' />
 </a>
 <img width='10px' src='assets/slider-transparent-placeholder.png' />
 <a href='https://www.docker.com/'>

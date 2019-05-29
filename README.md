@@ -1,4 +1,4 @@
-# planmap-app-server
+# Planmap - Server
 
 [Planmap web (mapping) app](https://github.com/planmap-eu/planmap-app-client) is supported by three server-side services:
 * <a href="./geoserver.md">GeoServer</a>
